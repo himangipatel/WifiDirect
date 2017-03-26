@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Himangi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/Himangi/Desktop/WifiDirectDemo1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_fc5f51733646bcf6c83211eb75a3157facf16803.jar" />
+    </item>
+
+</items>
